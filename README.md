@@ -17,26 +17,32 @@ This is a simple Tic Tac Toe game made using Dart. You can play it in the termin
 2. Open a terminal.
 3. Run the game with this command:
 
+```
 dart main.dart
+```
 
 ---
 
 🎯 How to Play
 
 - The game shows an empty board like this:
+
 ```
 - | - | -
 - | - | -
 - | - | -
 ```
+
 - Player X goes first. You will be asked to choose a number from 1 to 9 to mark your move.
 
 - The numbers represent the board like this:
+
 ```
 1 | 2 | 3
 4 | 5 | 6
 7 | 8 | 9
 ```
+
 - If the number you choose is already taken or not valid, the game will ask you to try again.
 
 ---
@@ -51,7 +57,10 @@ The game ends when:
 After the game, you can choose to play again or exit.
 
 ---
-
 ## 👨‍💻 Author
 
 Made by **Ahmed Abuhabel**.
+---
+
+Repo Link on Github: [https://github.com/AhmadAbd2020/gsg/tree/main]([https://github.com/AhmadAbd2020/gsg/tree/main)
+---
