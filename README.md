@@ -24,19 +24,19 @@ dart main.dart
 🎯 How to Play
 
 - The game shows an empty board like this:
-
-#- | - | -
-#- | - | -
-#- | - | -
-
+```
+- | - | -
+- | - | -
+- | - | -
+```
 - Player X goes first. You will be asked to choose a number from 1 to 9 to mark your move.
 
 - The numbers represent the board like this:
-
+```
 1 | 2 | 3
 4 | 5 | 6
 7 | 8 | 9
-
+```
 - If the number you choose is already taken or not valid, the game will ask you to try again.
 
 ---
